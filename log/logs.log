@@ -51,3 +51,25 @@
 2021-09-08 00:13:25   INFO [RegistrationTest:85  ] : Input phone - 1234567890
 2021-09-08 00:13:25   INFO [RegistrationTest:89  ] : Input alias - 12k334qwer@umail.com
 2021-09-08 00:13:28   INFO [RegistrationTest:91  ] : Click button submit registration
+2021-09-08 00:53:02   INFO [ContactUsTest:30  ] : Open url - http://automationpractice.com/index.php
+2021-09-08 00:53:03   INFO [ContactUsTest:37  ] : Click login - //a[@title='Contact Us']
+2021-09-08 00:53:03   INFO [ContactUsTest:43  ] : Select by Subject Heading - 1 (Webmaster)
+2021-09-08 00:53:03   INFO [ContactUsTest:46  ] : Input email - 1234qwsa@hmail.com
+2021-09-08 00:53:03   INFO [ContactUsTest:49  ] : Input Order reference - 123456
+2021-09-08 00:53:04   INFO [ContactUsTest:52  ] : Input Message - qwer
+2021-09-08 00:53:04   INFO [ContactUsTest:54  ] : Click button submit Send Message
+2021-09-08 00:56:15   INFO [ContactUsTest:30  ] : Open url - http://automationpractice.com/index.php
+2021-09-08 00:56:18   INFO [ContactUsTest:37  ] : Click login - //a[@title='Contact Us']
+2021-09-08 00:56:18   INFO [ContactUsTest:43  ] : Select by Subject Heading - 1 (Webmaster)
+2021-09-08 00:56:18   INFO [ContactUsTest:46  ] : Input email - 1234qwsa@hmail.com
+2021-09-08 00:56:18   INFO [ContactUsTest:49  ] : Input Order reference - 123456
+2021-09-08 00:56:18   INFO [ContactUsTest:52  ] : Input Message - qwer
+2021-09-08 00:56:20   INFO [ContactUsTest:54  ] : Click button submit Send Message
+2021-09-08 00:58:23   INFO [ContactUsTest:30  ] : Open url - http://automationpractice.com/index.php
+2021-09-08 00:58:24   INFO [ContactUsTest:37  ] : Click login - //a[@title='Contact Us']
+2021-09-08 00:58:24   INFO [ContactUsTest:43  ] : Select by Subject Heading - 1 (Webmaster)
+2021-09-08 00:58:24   INFO [ContactUsTest:46  ] : Input email - 1234qwsa@hmail.com
+2021-09-08 00:58:25   INFO [ContactUsTest:49  ] : Input Order reference - 123456
+2021-09-08 00:58:25   INFO [ContactUsTest:52  ] : Input Message - qwer
+2021-09-08 00:58:25   INFO [ContactUsTest:54  ] : Click button submit Send Message
+2021-09-08 00:58:26   INFO [ContactUsTest:57  ] : Your message has been successfully sent to our team
