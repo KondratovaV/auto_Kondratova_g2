@@ -26,8 +26,7 @@ public class FlickrTests {
         webDriver.get("https://www.flickr.com/");
         String title = webDriver.getTitle();
         Assert.assertEquals("Find your inspiration. | Flickr", title);
-        webDriver.findElement(By.id("search-field")).sendKeys("Oleg Gora" + Keys.ARROW_DOWN + Keys.ARROW_DOWN
-                + Keys.ENTER);
+        webDriver.findElement(By.id("search-field")).sendKeys("Oleg Gora" + Keys.ENTER);
         webDriver.findElement(By.xpath("/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]")).click();
         String title2 = webDriver.getTitle();
         Assert.assertEquals("Search: Oleg Gora | Flickr", title2);
