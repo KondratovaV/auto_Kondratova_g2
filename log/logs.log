@@ -73,3 +73,76 @@
 2021-09-08 00:58:25   INFO [ContactUsTest:52  ] : Input Message - qwer
 2021-09-08 00:58:25   INFO [ContactUsTest:54  ] : Click button submit Send Message
 2021-09-08 00:58:26   INFO [ContactUsTest:57  ] : Your message has been successfully sent to our team
+2021-12-08 20:04:51   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-12-08 20:04:51   INFO [RegistrationPage:97  ] : Input email 12k3d34qwer@umail.com
+2021-12-08 20:04:51   INFO [RegistrationPage:111 ] : Click submit button
+2021-12-08 20:04:57   INFO [RegistrationPage:126 ] : Find select city by 32
+2021-12-08 20:04:57   INFO [RegistrationPage:142 ] : Find select country United States
+2021-12-08 20:10:27   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-12-08 20:10:28   INFO [RegistrationPage:97  ] : Input email 12k3d34qwer@umail.com
+2021-12-08 20:10:28   INFO [RegistrationPage:111 ] : Click submit button
+2021-12-08 20:10:57   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-12-08 20:10:57   INFO [RegistrationPage:97  ] : Input email 12k3d3n4qwer@umail.com
+2021-12-08 20:10:58   INFO [RegistrationPage:111 ] : Click submit button
+2021-12-08 20:11:02   INFO [RegistrationPage:126 ] : Find select city by 32
+2021-12-08 20:11:03   INFO [RegistrationPage:142 ] : Find select country United States
+2021-17-08 19:51:50   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-17-08 19:52:05   INFO [RegistrationPage:97  ] : Input email 12k3d3n4qwer@umail.com
+2021-17-08 19:52:05   INFO [RegistrationPage:111 ] : Click submit button
+2021-17-08 19:52:15  ERROR [RegistrationPage:128 ] : Can't input customer firstname
+2021-17-08 19:53:17   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-17-08 19:53:18   INFO [RegistrationPage:97  ] : Input email 12k3d3jn4qwer@umail.com
+2021-17-08 19:53:18   INFO [RegistrationPage:111 ] : Click submit button
+2021-17-08 19:53:24   INFO [RegistrationPage:126 ] : Input customer firstnameVika
+2021-17-08 19:53:24   INFO [RegistrationPage:141 ] : Input customer lastnameKond
+2021-17-08 19:53:24   INFO [RegistrationPage:157 ] : Input email 12k3d3jn4qwer@umail.com
+2021-17-08 19:53:25   INFO [RegistrationPage:172 ] : Input password
+2021-17-08 19:53:25   INFO [RegistrationPage:188 ] : Input firstname Vika
+2021-17-08 19:53:25   INFO [RegistrationPage:204 ] : Input lastname Kond
+2021-17-08 19:53:25   INFO [RegistrationPage:219 ] : Input street street New York
+2021-17-08 19:53:25   INFO [RegistrationPage:234 ] : Input city New York
+2021-17-08 19:53:26   INFO [RegistrationPage:249 ] : Find select city by 32
+2021-17-08 19:53:26   INFO [RegistrationPage:263 ] : Input postcode 12345
+2021-17-08 19:53:26   INFO [RegistrationPage:279 ] : Find select country United States
+2021-17-08 19:53:26   INFO [RegistrationPage:293 ] : Input phoneMobile 1234567890
+2021-17-08 19:53:26   INFO [RegistrationPage:309 ] : Input alias 12k3d3jn4qwer@umail.com
+2021-17-08 19:53:37   INFO [RegistrationPage:323 ] : Click submit account button
+2021-17-08 19:53:47  ERROR [RegistrationPage:340 ] : Enable to create account
+2021-17-08 19:54:52  ERROR [RegistrationPage:30  ] : Page can't openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-17-08 19:55:20   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-17-08 19:55:21   INFO [RegistrationPage:97  ] : Input email 12k3d3jn4qkwer@umail.com
+2021-17-08 19:55:21   INFO [RegistrationPage:111 ] : Click submit button
+2021-17-08 19:55:28   INFO [RegistrationPage:126 ] : Input customer firstnameVika
+2021-17-08 19:55:28   INFO [RegistrationPage:141 ] : Input customer lastnameKond
+2021-17-08 19:55:28   INFO [RegistrationPage:157 ] : Input email 12k3d3jn4qkwer@umail.com
+2021-17-08 19:55:28   INFO [RegistrationPage:172 ] : Input password
+2021-17-08 19:55:28   INFO [RegistrationPage:188 ] : Input firstname Vika
+2021-17-08 19:55:29   INFO [RegistrationPage:204 ] : Input lastname Kond
+2021-17-08 19:55:29   INFO [RegistrationPage:219 ] : Input street street New York
+2021-17-08 19:55:29   INFO [RegistrationPage:234 ] : Input city New York
+2021-17-08 19:55:29   INFO [RegistrationPage:249 ] : Find select city by 32
+2021-17-08 19:55:29   INFO [RegistrationPage:263 ] : Input postcode 12345
+2021-17-08 19:55:29   INFO [RegistrationPage:279 ] : Find select country United States
+2021-17-08 19:55:29   INFO [RegistrationPage:293 ] : Input phoneMobile 1234567890
+2021-17-08 19:55:30   INFO [RegistrationPage:309 ] : Input alias 12k3d3jn4qkwer@umail.com
+2021-17-08 19:55:41   INFO [RegistrationPage:323 ] : Click submit account button
+2021-17-08 19:55:51  ERROR [RegistrationPage:339 ] : Enable to create account
+2021-17-08 20:00:32  ERROR [RegistrationPage:30  ] : Page can't openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-17-08 20:01:08   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-17-08 20:01:08   INFO [RegistrationPage:100 ] : Input email 12k3d3jn4qkwebr@umail.com
+2021-17-08 20:01:08   INFO [RegistrationPage:114 ] : Click submit button
+2021-17-08 20:01:11   INFO [RegistrationPage:129 ] : Input customer firstnameVika
+2021-17-08 20:01:11   INFO [RegistrationPage:144 ] : Input customer lastnameKond
+2021-17-08 20:01:11   INFO [RegistrationPage:160 ] : Input email 12k3d3jn4qkwebr@umail.com
+2021-17-08 20:01:12   INFO [RegistrationPage:175 ] : Input password
+2021-17-08 20:01:12   INFO [RegistrationPage:191 ] : Input firstname Vika
+2021-17-08 20:01:12   INFO [RegistrationPage:207 ] : Input lastname Kond
+2021-17-08 20:01:12   INFO [RegistrationPage:222 ] : Input street street New York
+2021-17-08 20:01:12   INFO [RegistrationPage:237 ] : Input city New York
+2021-17-08 20:01:13   INFO [RegistrationPage:252 ] : Find select city by 32
+2021-17-08 20:01:13   INFO [RegistrationPage:266 ] : Input postcode 12345
+2021-17-08 20:01:13   INFO [RegistrationPage:282 ] : Find select country United States
+2021-17-08 20:01:13   INFO [RegistrationPage:296 ] : Input phoneMobile 1234567890
+2021-17-08 20:01:13   INFO [RegistrationPage:312 ] : Input alias 12k3d3jn4qkwebr@umail.com
+2021-17-08 20:01:19   INFO [RegistrationPage:326 ] : Click submit account button
+2021-17-08 20:01:19   INFO [RegistrationPage:341 ] : Successful created account
