@@ -146,3 +146,60 @@
 2021-17-08 20:01:13   INFO [RegistrationPage:312 ] : Input alias 12k3d3jn4qkwebr@umail.com
 2021-17-08 20:01:19   INFO [RegistrationPage:326 ] : Click submit account button
 2021-17-08 20:01:19   INFO [RegistrationPage:341 ] : Successful created account
+2021-17-08 20:41:20   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php
+2021-17-08 20:41:23   INFO [RegistrationPage:100 ] : Click to SignIn page
+2021-17-08 20:41:23   INFO [RegistrationPage:114 ] : Input email ghjncs@vf.com
+2021-17-08 20:41:24   INFO [RegistrationPage:128 ] : Click submit button
+2021-17-08 20:41:28   INFO [RegistrationPage:143 ] : Input customer firstnameVika
+2021-17-08 20:41:28   INFO [RegistrationPage:158 ] : Input customer lastnameKond
+2021-17-08 20:41:28   INFO [RegistrationPage:174 ] : Input email ghjncs@vf.com
+2021-17-08 20:41:28   INFO [RegistrationPage:189 ] : Input password
+2021-17-08 20:41:29   INFO [RegistrationPage:205 ] : Input firstname Vika
+2021-17-08 20:41:29   INFO [RegistrationPage:221 ] : Input lastname Kond
+2021-17-08 20:41:29   INFO [RegistrationPage:236 ] : Input street street New York
+2021-17-08 20:41:29   INFO [RegistrationPage:251 ] : Input city New York
+2021-17-08 20:41:29   INFO [RegistrationPage:266 ] : Find select city by 32
+2021-17-08 20:41:30   INFO [RegistrationPage:280 ] : Input postcode 12345
+2021-17-08 20:41:30   INFO [RegistrationPage:310 ] : Input phoneMobile 1234567890
+2021-17-08 20:41:30   INFO [RegistrationPage:326 ] : Input alias ghjncs@vf.com
+2021-17-08 20:41:40   INFO [RegistrationPage:340 ] : Click submit account button
+2021-17-08 20:45:11   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php
+2021-17-08 20:45:17   INFO [RegistrationPage:100 ] : Click to SignIn page
+2021-17-08 20:45:17   INFO [RegistrationPage:114 ] : Input email ghjncs@vf.com
+2021-17-08 20:45:17   INFO [RegistrationPage:128 ] : Click submit button
+2021-17-08 20:45:22  ERROR [RegistrationPage:145 ] : Can't input customer firstname
+2021-17-08 20:45:40   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php
+2021-17-08 20:45:44   INFO [RegistrationPage:100 ] : Click to SignIn page
+2021-17-08 20:45:54   INFO [RegistrationPage:114 ] : Input email ghjlncs@vf.com
+2021-17-08 20:45:54   INFO [RegistrationPage:128 ] : Click submit button
+2021-17-08 20:45:59   INFO [RegistrationPage:143 ] : Input customer firstnameVika
+2021-17-08 20:45:59   INFO [RegistrationPage:158 ] : Input customer lastnameKond
+2021-17-08 20:45:59   INFO [RegistrationPage:174 ] : Input email ghjlncs@vf.com
+2021-17-08 20:46:00   INFO [RegistrationPage:189 ] : Input password
+2021-17-08 20:46:00   INFO [RegistrationPage:205 ] : Input firstname Vika
+2021-17-08 20:46:00   INFO [RegistrationPage:221 ] : Input lastname Kond
+2021-17-08 20:46:01   INFO [RegistrationPage:236 ] : Input street street New York
+2021-17-08 20:46:01   INFO [RegistrationPage:251 ] : Input city New York
+2021-17-08 20:46:01   INFO [RegistrationPage:280 ] : Input postcode 12345
+2021-17-08 20:46:01   INFO [RegistrationPage:296 ] : Find select country United States
+2021-17-08 20:46:01   INFO [RegistrationPage:310 ] : Input phoneMobile 1234567890
+2021-17-08 20:46:01   INFO [RegistrationPage:326 ] : Input alias ghjlncs@vf.com
+2021-17-08 20:46:07   INFO [RegistrationPage:340 ] : Click submit account button
+2021-17-08 20:47:07   INFO [RegistrationPage:27  ] : Page was openedhttp://automationpractice.com/index.php
+2021-17-08 20:47:15   INFO [RegistrationPage:100 ] : Click to SignIn page
+2021-17-08 20:47:15   INFO [RegistrationPage:114 ] : Input email ghjlsncs@vf.com
+2021-17-08 20:47:15   INFO [RegistrationPage:128 ] : Click submit button
+2021-17-08 20:47:19   INFO [RegistrationPage:143 ] : Input customer firstnameVika
+2021-17-08 20:47:19   INFO [RegistrationPage:158 ] : Input customer lastnameKond
+2021-17-08 20:47:20   INFO [RegistrationPage:174 ] : Input email ghjlsncs@vf.com
+2021-17-08 20:47:20   INFO [RegistrationPage:189 ] : Input password
+2021-17-08 20:47:20   INFO [RegistrationPage:205 ] : Input firstname Vika
+2021-17-08 20:47:20   INFO [RegistrationPage:221 ] : Input lastname Kond
+2021-17-08 20:47:20   INFO [RegistrationPage:236 ] : Input street street New York
+2021-17-08 20:47:21   INFO [RegistrationPage:251 ] : Input city New York
+2021-17-08 20:47:21   INFO [RegistrationPage:280 ] : Input postcode 12345
+2021-17-08 20:47:21   INFO [RegistrationPage:296 ] : Find select country United States
+2021-17-08 20:47:21   INFO [RegistrationPage:310 ] : Input phoneMobile 1234567890
+2021-17-08 20:47:21   INFO [RegistrationPage:326 ] : Input alias ghjlsncs@vf.com
+2021-17-08 20:47:27   INFO [RegistrationPage:340 ] : Click submit account button
+2021-17-08 20:47:28   INFO [RegistrationPage:371 ] : Unsuccessful created account

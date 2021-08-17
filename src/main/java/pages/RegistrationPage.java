@@ -70,11 +70,25 @@ public class RegistrationPage extends MainPage {
     @FindBy(className = "info-account")
     public WebElement successfulRegistration;
 
+    @FindBy(xpath = "//div[@id='center_column']//div[1]/p")
+    private WebElement theNumberOfErrorsText;
+
+    @FindBy(xpath = "//div[@id='center_column']//div[1]/ol/li[1]")
+    private WebElement theFirstErrorText;
+
     /**
      * Method open SignIn page
      **/
     public void openRegistrationPage() {
         open("http://automationpractice.com/index.php?controller=authentication&back=my-account");
+    }
+
+    /**
+     * Method open web page
+     * @param url
+     **/
+    public void openWebPage(String url) {
+        open(url);
     }
 
     /**
@@ -345,6 +359,23 @@ public class RegistrationPage extends MainPage {
             Assert.fail("Enable to create account");
         }
     }
+
+    /**
+     * Method check unsuccessful registration
+     * */
+
+    public void checkRegistrationUnsuccessful() {
+        try {
+            Assert.assertEquals("There is 1 error", theNumberOfErrorsText.getText());
+            Assert.assertEquals("This country requires you to choose a State.", theFirstErrorText.getText());
+            logger.info("Unsuccessful created account");
+        } catch (Exception e) {
+            logger.error("Enable to check the error field");
+            e.printStackTrace();
+            Assert.fail("Enable to check the error field");
+        }
+    }
+
 
 
 
